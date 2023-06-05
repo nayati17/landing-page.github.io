@@ -38,7 +38,7 @@
     color: white;
     margin-top: 150px;
     font-weight: 200;
-    margin-bottom: 30px;
+    margin-top: 50px;
     font-size: 52px;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
@@ -183,6 +183,7 @@
 
     .jumbotron .display-4 {
         font-size: 62px;
+        margin-top: 120px;
     }
 
     .workingspace {
